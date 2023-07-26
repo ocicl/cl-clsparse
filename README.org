@@ -1,0 +1,10 @@
+* cl-clsparse
+
+Common  Lisp bindings for clSPARSE
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/gos-k/cl-clsparse.git   |
+| commit  | 030f7d8  |
+| systems | cl-clsparse |
+|---------+-------------------------------------------|
+
